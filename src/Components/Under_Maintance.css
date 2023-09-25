@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+128+Text');
+
+
+.font {
+  font-family: "Great Vibes", cursive;
+}
+.LOGO {
+  font-family: "Libre Barcode 128 Text", cursive;
+}
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+a:hover {
+  color: #333;
+  text-decoration: none;
+}
